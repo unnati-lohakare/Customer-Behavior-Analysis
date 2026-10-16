@@ -128,8 +128,8 @@ Customer-Behavior-Analysis/
 │     └── Customer_Data.csv
 └── image
 │    └── Customer_Behavior_Dashboard.png
-├── Customer_Behavior_Analysis.sql
 ├── Customer_Behavior_Analysis.pbix
+├── Customer_Behavior_Analysis.sql
 ├── README.md
 
 ```
