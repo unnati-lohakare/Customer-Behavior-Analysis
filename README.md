@@ -152,6 +152,6 @@ Customer-Behavior-Analysis/
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/unnati-lohakare)
-- **GitHub:** [View my projects](https://github.com/unnati-lohakare/Customer-Behavior-Analysis)
+- **GitHub:** [View my projects](https://github.com/unnati-lohakare?tab=repositories)
 
 If you find this project useful, feel free to explore the repository and connect with me!
